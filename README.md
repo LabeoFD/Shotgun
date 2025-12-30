@@ -9,3 +9,5 @@ https://ccb.jhu.edu/data/kraken2_protocol/
 
 https://github.com/martin-steinegger/kraken-protocol/tree/main
 
+https://github.com/metagenomics/denbi-nanopore-training
+
