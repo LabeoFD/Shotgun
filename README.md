@@ -7,3 +7,5 @@ https://github.com/Sydney-Informatics-Hub/Shotgun-Metagenomics-Analysis
 
 https://ccb.jhu.edu/data/kraken2_protocol/
 
+https://github.com/martin-steinegger/kraken-protocol/tree/main
+
