@@ -11,3 +11,5 @@ https://github.com/martin-steinegger/kraken-protocol/tree/main
 
 https://github.com/metagenomics/denbi-nanopore-training
 
+https://benlangmead.github.io/aws-indexes/k2
+
