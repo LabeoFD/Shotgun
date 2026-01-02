@@ -13,3 +13,5 @@ https://github.com/metagenomics/denbi-nanopore-training
 
 https://benlangmead.github.io/aws-indexes/k2
 
+https://github.com/barbarahelena/metagenomicspipeline
+
